@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Mart and I am currently looking for work as Junior Software Developer. (Poland / Remote)  
+My name is Mart and I am currently looking for job as Junior Software Developer. (Poland / Remote)  
 💬 hello@marcin-wozniak.pl  
 
 🧠 Skills: Python, PHP, Dart, Laravel, Flutter, HTML5, CSS3  
