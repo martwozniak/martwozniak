@@ -2,12 +2,11 @@
 My name is Mart and I am currently looking for job as Junior Software Developer. (Poland / Remote)  
 💬 hello@marcin-wozniak.pl  
 
-🧠 Skills: Python, PHP, Dart, Laravel, Flutter, HTML5, CSS3  
+🧠 Skills: Python, PHP, Laravel, HTML5, CSS3  
 💻 Tools: VSCode, Git  
-💭 English: B1  
+💭 English: A2
 🏆 Certs: IC3 Computing Fundamentals - Global Standard 4, CompTIA IT Fundamentals Certification, MTA: Networking Fundamentals, MTA: Windows® Server Administration Fundamentals  
 
-⚡ Fun fact: I love good books! :)
 <!--
 **martwozniak/martwozniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
