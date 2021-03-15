@@ -4,7 +4,7 @@ My name is Mart and I am currently looking for job as Junior Software Developer.
 
 🧠 Skills: Python, PHP, Laravel, HTML5, CSS3  
 💻 Tools: VSCode, Git  
-💭 English: A2
+💭 English: A2  
 🏆 Certs: IC3 Computing Fundamentals - Global Standard 4, CompTIA IT Fundamentals Certification, MTA: Networking Fundamentals, MTA: Windows® Server Administration Fundamentals  
 
 <!--
