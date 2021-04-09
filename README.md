@@ -5,7 +5,7 @@ My name is Mart and I am currently looking for job as Junior Software Developer.
 🧠 Skills: Python, PHP, HTML5, CSS3, SCSS  
 ⚡ Frameworks: Django, Flask, Laravel  
 💻 Tools: VSCode, Git    
-💭 English: A2   
+💭 English: B2 (A2 Certified)   
 🏆 Certs:   
 IC3 Computing Fundamentals - Global Standard 4,  
 CompTIA IT Fundamentals Certification,  
